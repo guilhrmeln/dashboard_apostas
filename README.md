@@ -1,5 +1,5 @@
 # dashboard_apostas
-PROJETO EM PYTHON DE DASHBOARD PARA APOSTAS ESPORTIVAS
+**PROJETO EM PYTHON DE DASHBOARD PARA APOSTAS ESPORTIVAS**
 
 Este projeto teve como objetivo criar um dashboard interativo para o acompanhamento de apostas esportivas. Utilizando as bibliotecas dash, plotly, pandas e dash-bootstrap-components, o dashboard permite o gerenciamento das apostas e acompanhamento do desempenho do usuário, apresentando gráficos e filtros para customizar as informações apresentadas.
 
@@ -9,7 +9,7 @@ A interface do dashboard foi construída a partir das bibliotecas DASH, PLOTLY e
 
 Este projeto foi criado com o intuito de aprendizado, portanto segue sendo corrigido e aperfeiçoado. 
 
-COMO USAR
+**COMO USAR**
 
 Para utilizar o dashboard é preciso da linguagem Python e dos packages dash, plotly, pandas, dash_bootstrap_components, datetime e sre_parse. 
 
