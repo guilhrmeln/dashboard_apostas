@@ -9,7 +9,6 @@ import plotly.express as px
 import pandas as pd
 import dash_bootstrap_components as dbc
 from datetime import date
-import time
 
 ########### ########### ###########
 ########### CONFIGURAÇÕES DO APP
